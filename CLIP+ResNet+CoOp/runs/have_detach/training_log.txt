@@ -1,0 +1,11 @@
+2026-05-28 15:45:22,602 - INFO - Starting training process...
+2026-05-28 15:45:22,610 - INFO - Loaded 4000 training images and 1000 validation images.
+2026-05-28 15:46:16,879 - INFO - Epoch [1/50] Train Loss: 1.0364, Train Acc: 78.12% | Val Loss: 0.7940, Val Acc: 87.00%
+2026-05-28 15:46:18,398 - INFO - --> Saved new best model to 研究拓展/CLIP+ResNet+CoOp/checkpoints/have_detach/(Acc: 87.00%)_best_model.pth (Acc: 87.00%)
+2026-05-28 15:47:09,786 - INFO - Epoch [2/50] Train Loss: 0.5318, Train Acc: 88.92% | Val Loss: 0.7841, Val Acc: 84.10%
+2026-05-28 15:48:01,966 - INFO - Epoch [3/50] Train Loss: 0.3114, Train Acc: 94.00% | Val Loss: 0.7751, Val Acc: 86.40%
+2026-05-28 15:48:53,634 - INFO - Epoch [4/50] Train Loss: 0.1924, Train Acc: 95.10% | Val Loss: 0.7970, Val Acc: 86.30%
+2026-05-28 15:49:44,523 - INFO - Epoch [5/50] Train Loss: 0.1348, Train Acc: 95.85% | Val Loss: 0.8426, Val Acc: 85.60%
+2026-05-28 15:50:36,563 - INFO - Epoch [6/50] Train Loss: 0.1080, Train Acc: 96.47% | Val Loss: 0.9522, Val Acc: 81.90%
+2026-05-28 15:51:28,541 - INFO - Epoch [7/50] Train Loss: 0.0858, Train Acc: 97.38% | Val Loss: 0.8213, Val Acc: 86.80%
+2026-05-28 15:52:19,921 - INFO - Epoch [8/50] Train Loss: 0.0754, Train Acc: 97.75% | Val Loss: 0.9701, Val Acc: 83.80%
