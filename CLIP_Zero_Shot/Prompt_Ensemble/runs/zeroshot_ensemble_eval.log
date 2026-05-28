@@ -1,0 +1,6 @@
+2026-05-20 16:21:02 - Starting CLIP Zero-Shot Evaluation (Prompt Ensemble) on cuda
+2026-05-20 16:21:06 - Loaded CLIP Model: ViT-B/32
+2026-05-20 16:21:06 - Loaded 1000 Validation images.
+2026-05-20 16:21:06 - Extracting ensembled text features...
+2026-05-20 16:21:06 - Ensembled text features extracted successfully.
+2026-05-20 16:22:23 - Zero-Shot Ensemble Evaluation Finished! Final Accuracy: 39.60%

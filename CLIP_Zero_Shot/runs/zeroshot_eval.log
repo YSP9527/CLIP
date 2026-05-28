@@ -1,0 +1,5 @@
+2026-05-14 18:37:56 - Starting CLIP Zero-Shot Evaluation on cuda
+2026-05-14 18:38:00 - Loaded CLIP Model: ViT-B/32
+2026-05-14 18:38:00 - Loaded 1000 Validation images.
+2026-05-14 18:38:00 - Using text prompts: ['A photo of Mars terrain showing bedrock.', 'A photo of Mars terrain showing gravel.', 'A photo of Mars terrain showing looserock.', 'A photo of Mars terrain showing norulerock.', 'A photo of Mars terrain showing sand.']
+2026-05-14 18:38:11 - Zero-Shot Evaluation Finished! Final Accuracy: 35.40%

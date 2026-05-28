@@ -1,0 +1,61 @@
+2026-05-28 12:56:33 - ===========================================
+2026-05-28 12:56:33 - Starting Dual-Teacher Distillation on cuda
+2026-05-28 12:56:33 - Alpha(CE): 0.5, Beta(KD): 0.5, Temp: 4.0
+2026-05-28 12:56:33 - ===========================================
+2026-05-28 12:56:33 - Loading Teacher Model...
+2026-05-28 12:56:37 - Loading Student Model (MobileNetV3-Small)...
+2026-05-28 12:57:29 - Epoch [01/50] Train Acc: 64.75% (CE: 0.9383, KD: 11.8470) | Val Loss: 1.1929 Acc: 68.60%
+2026-05-28 12:57:29 -  >>> New best KD model saved to 研究拓展/CLIP+ResNet+CoOp/KD_MobileNetV3/checkpoints/(Acc_68.60%)_kd_mobilenetv3_best.pth (Acc: 68.60%)
+2026-05-28 12:58:22 - Epoch [02/50] Train Acc: 82.70% (CE: 0.6316, KD: 5.0548) | Val Loss: 0.6294 Acc: 84.00%
+2026-05-28 12:58:22 -  >>> New best KD model saved to 研究拓展/CLIP+ResNet+CoOp/KD_MobileNetV3/checkpoints/(Acc_84.00%)_kd_mobilenetv3_best.pth (Acc: 84.00%)
+2026-05-28 12:59:13 - Epoch [03/50] Train Acc: 86.83% (CE: 0.5030, KD: 4.0080) | Val Loss: 0.4980 Acc: 87.50%
+2026-05-28 12:59:14 -  >>> New best KD model saved to 研究拓展/CLIP+ResNet+CoOp/KD_MobileNetV3/checkpoints/(Acc_87.50%)_kd_mobilenetv3_best.pth (Acc: 87.50%)
+2026-05-28 13:00:05 - Epoch [04/50] Train Acc: 88.88% (CE: 0.3952, KD: 3.3539) | Val Loss: 0.5288 Acc: 88.10%
+2026-05-28 13:00:05 -  >>> New best KD model saved to 研究拓展/CLIP+ResNet+CoOp/KD_MobileNetV3/checkpoints/(Acc_88.10%)_kd_mobilenetv3_best.pth (Acc: 88.10%)
+2026-05-28 13:00:57 - Epoch [05/50] Train Acc: 91.05% (CE: 0.3226, KD: 2.8228) | Val Loss: 0.5629 Acc: 86.40%
+2026-05-28 13:01:49 - Epoch [06/50] Train Acc: 92.90% (CE: 0.2609, KD: 2.4617) | Val Loss: 0.5542 Acc: 87.90%
+2026-05-28 13:02:42 - Epoch [07/50] Train Acc: 94.60% (CE: 0.1760, KD: 2.0074) | Val Loss: 0.5598 Acc: 87.40%
+2026-05-28 13:03:33 - Epoch [08/50] Train Acc: 94.75% (CE: 0.1840, KD: 1.9231) | Val Loss: 0.6023 Acc: 86.70%
+2026-05-28 13:04:25 - Epoch [09/50] Train Acc: 96.20% (CE: 0.1184, KD: 1.6064) | Val Loss: 0.6457 Acc: 87.30%
+2026-05-28 13:05:18 - Epoch [10/50] Train Acc: 96.83% (CE: 0.0918, KD: 1.4275) | Val Loss: 0.6293 Acc: 86.30%
+2026-05-28 13:06:10 - Epoch [11/50] Train Acc: 97.62% (CE: 0.0695, KD: 1.2376) | Val Loss: 0.5771 Acc: 88.40%
+2026-05-28 13:06:10 -  >>> New best KD model saved to 研究拓展/CLIP+ResNet+CoOp/KD_MobileNetV3/checkpoints/(Acc_88.40%)_kd_mobilenetv3_best.pth (Acc: 88.40%)
+2026-05-28 13:07:01 - Epoch [12/50] Train Acc: 97.85% (CE: 0.0589, KD: 1.1496) | Val Loss: 0.6766 Acc: 86.80%
+2026-05-28 13:07:53 - Epoch [13/50] Train Acc: 98.58% (CE: 0.0416, KD: 0.9982) | Val Loss: 0.6489 Acc: 87.50%
+2026-05-28 13:08:45 - Epoch [14/50] Train Acc: 98.47% (CE: 0.0506, KD: 1.0251) | Val Loss: 0.7473 Acc: 86.70%
+2026-05-28 13:09:36 - Epoch [15/50] Train Acc: 98.85% (CE: 0.0337, KD: 0.9180) | Val Loss: 0.7539 Acc: 86.50%
+2026-05-28 13:10:28 - Epoch [16/50] Train Acc: 98.85% (CE: 0.0387, KD: 0.9000) | Val Loss: 0.7856 Acc: 86.20%
+2026-05-28 13:11:20 - Epoch [17/50] Train Acc: 99.10% (CE: 0.0253, KD: 0.7615) | Val Loss: 0.7502 Acc: 85.90%
+2026-05-28 13:12:12 - Epoch [18/50] Train Acc: 98.83% (CE: 0.0312, KD: 0.8396) | Val Loss: 0.7339 Acc: 85.80%
+2026-05-28 13:13:03 - Epoch [19/50] Train Acc: 99.53% (CE: 0.0137, KD: 0.6359) | Val Loss: 0.6923 Acc: 87.20%
+2026-05-28 13:13:56 - Epoch [20/50] Train Acc: 99.53% (CE: 0.0127, KD: 0.6355) | Val Loss: 0.7192 Acc: 86.90%
+2026-05-28 13:14:48 - Epoch [21/50] Train Acc: 99.42% (CE: 0.0171, KD: 0.6539) | Val Loss: 0.7904 Acc: 86.90%
+2026-05-28 13:15:40 - Epoch [22/50] Train Acc: 99.05% (CE: 0.0266, KD: 0.6903) | Val Loss: 0.7480 Acc: 86.80%
+2026-05-28 13:16:31 - Epoch [23/50] Train Acc: 99.28% (CE: 0.0257, KD: 0.6595) | Val Loss: 0.7715 Acc: 86.30%
+2026-05-28 13:17:23 - Epoch [24/50] Train Acc: 99.47% (CE: 0.0164, KD: 0.5855) | Val Loss: 0.7508 Acc: 85.70%
+2026-05-28 13:18:14 - Epoch [25/50] Train Acc: 99.78% (CE: 0.0045, KD: 0.4692) | Val Loss: 0.7092 Acc: 86.30%
+2026-05-28 13:19:07 - Epoch [26/50] Train Acc: 99.85% (CE: 0.0049, KD: 0.4552) | Val Loss: 0.7518 Acc: 86.90%
+2026-05-28 13:19:59 - Epoch [27/50] Train Acc: 99.70% (CE: 0.0085, KD: 0.4853) | Val Loss: 0.7946 Acc: 86.70%
+2026-05-28 13:20:50 - Epoch [28/50] Train Acc: 99.53% (CE: 0.0196, KD: 0.5324) | Val Loss: 0.7272 Acc: 87.60%
+2026-05-28 13:21:43 - Epoch [29/50] Train Acc: 99.70% (CE: 0.0103, KD: 0.4501) | Val Loss: 0.7231 Acc: 86.80%
+2026-05-28 13:22:35 - Epoch [30/50] Train Acc: 99.72% (CE: 0.0091, KD: 0.4343) | Val Loss: 0.7741 Acc: 85.70%
+2026-05-28 13:23:28 - Epoch [31/50] Train Acc: 99.92% (CE: 0.0031, KD: 0.3902) | Val Loss: 0.7726 Acc: 86.50%
+2026-05-28 13:24:20 - Epoch [32/50] Train Acc: 99.83% (CE: 0.0076, KD: 0.4039) | Val Loss: 0.8227 Acc: 86.20%
+2026-05-28 13:25:12 - Epoch [33/50] Train Acc: 99.72% (CE: 0.0067, KD: 0.4084) | Val Loss: 0.8870 Acc: 84.40%
+2026-05-28 13:26:04 - Epoch [34/50] Train Acc: 99.65% (CE: 0.0092, KD: 0.4141) | Val Loss: 0.8032 Acc: 86.90%
+2026-05-28 13:26:56 - Epoch [35/50] Train Acc: 99.88% (CE: 0.0038, KD: 0.3698) | Val Loss: 0.7558 Acc: 86.00%
+2026-05-28 13:27:47 - Epoch [36/50] Train Acc: 99.88% (CE: 0.0028, KD: 0.3290) | Val Loss: 0.8424 Acc: 86.20%
+2026-05-28 13:28:39 - Epoch [37/50] Train Acc: 99.75% (CE: 0.0068, KD: 0.3465) | Val Loss: 0.8815 Acc: 85.50%
+2026-05-28 13:29:31 - Epoch [38/50] Train Acc: 99.80% (CE: 0.0081, KD: 0.3616) | Val Loss: 0.8143 Acc: 86.10%
+2026-05-28 13:30:23 - Epoch [39/50] Train Acc: 99.95% (CE: 0.0016, KD: 0.3172) | Val Loss: 0.7966 Acc: 84.90%
+2026-05-28 13:31:15 - Epoch [40/50] Train Acc: 99.80% (CE: 0.0084, KD: 0.3673) | Val Loss: 0.8436 Acc: 85.50%
+2026-05-28 13:32:07 - Epoch [41/50] Train Acc: 99.88% (CE: 0.0059, KD: 0.3462) | Val Loss: 0.8246 Acc: 84.90%
+2026-05-28 13:32:58 - Epoch [42/50] Train Acc: 99.88% (CE: 0.0028, KD: 0.2934) | Val Loss: 0.8191 Acc: 85.80%
+2026-05-28 13:33:50 - Epoch [43/50] Train Acc: 99.78% (CE: 0.0054, KD: 0.3218) | Val Loss: 0.9373 Acc: 85.00%
+2026-05-28 13:34:42 - Epoch [44/50] Train Acc: 99.95% (CE: 0.0018, KD: 0.2758) | Val Loss: 0.8457 Acc: 85.00%
+2026-05-28 13:35:33 - Epoch [45/50] Train Acc: 99.97% (CE: 0.0017, KD: 0.2743) | Val Loss: 0.7804 Acc: 87.00%
+2026-05-28 13:36:24 - Epoch [46/50] Train Acc: 99.78% (CE: 0.0056, KD: 0.2939) | Val Loss: 0.7597 Acc: 86.70%
+2026-05-28 13:37:16 - Epoch [47/50] Train Acc: 99.88% (CE: 0.0021, KD: 0.2612) | Val Loss: 0.8683 Acc: 85.70%
+2026-05-28 13:38:07 - Epoch [48/50] Train Acc: 99.83% (CE: 0.0083, KD: 0.2754) | Val Loss: 0.8302 Acc: 85.30%
+2026-05-28 13:38:59 - Epoch [49/50] Train Acc: 99.65% (CE: 0.0099, KD: 0.3392) | Val Loss: 0.8766 Acc: 85.30%
+2026-05-28 13:39:50 - Epoch [50/50] Train Acc: 99.90% (CE: 0.0046, KD: 0.2587) | Val Loss: 0.8669 Acc: 86.00%

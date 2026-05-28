@@ -1,0 +1,68 @@
+2026-05-14 10:51:51 - ===========================================
+2026-05-14 10:51:51 - Starting CLIP+MLP Baseline Training on cuda
+2026-05-14 10:51:51 - ===========================================
+2026-05-14 10:51:51 - Loaded 4000 Train images and 1000 Val images.
+2026-05-14 10:52:46 - Epoch [01/50] Train Loss: 1.0625 Acc: 58.45% | Val Loss: 0.7656 Acc: 73.40%
+2026-05-14 10:52:47 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 73.40%)
+2026-05-14 10:53:40 - Epoch [02/50] Train Loss: 0.7446 Acc: 73.00% | Val Loss: 0.6544 Acc: 75.00%
+2026-05-14 10:53:44 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 75.00%)
+2026-05-14 10:54:35 - Epoch [03/50] Train Loss: 0.6485 Acc: 75.62% | Val Loss: 0.6008 Acc: 77.30%
+2026-05-14 10:54:39 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 77.30%)
+2026-05-14 10:55:32 - Epoch [04/50] Train Loss: 0.6090 Acc: 77.22% | Val Loss: 0.5603 Acc: 79.10%
+2026-05-14 10:55:36 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 79.10%)
+2026-05-14 10:56:28 - Epoch [05/50] Train Loss: 0.5542 Acc: 79.72% | Val Loss: 0.5392 Acc: 81.10%
+2026-05-14 10:56:32 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 81.10%)
+2026-05-14 10:57:24 - Epoch [06/50] Train Loss: 0.5219 Acc: 80.67% | Val Loss: 0.5302 Acc: 81.10%
+2026-05-14 10:58:16 - Epoch [07/50] Train Loss: 0.4953 Acc: 82.08% | Val Loss: 0.5142 Acc: 81.20%
+2026-05-14 10:58:21 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 81.20%)
+2026-05-14 10:59:13 - Epoch [08/50] Train Loss: 0.4699 Acc: 82.75% | Val Loss: 0.4971 Acc: 81.60%
+2026-05-14 10:59:17 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 81.60%)
+2026-05-14 11:00:09 - Epoch [09/50] Train Loss: 0.4495 Acc: 84.45% | Val Loss: 0.4912 Acc: 82.00%
+2026-05-14 11:00:14 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 82.00%)
+2026-05-14 11:01:05 - Epoch [10/50] Train Loss: 0.4361 Acc: 84.00% | Val Loss: 0.4804 Acc: 82.90%
+2026-05-14 11:01:10 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 82.90%)
+2026-05-14 11:02:02 - Epoch [11/50] Train Loss: 0.4166 Acc: 84.90% | Val Loss: 0.4734 Acc: 82.70%
+2026-05-14 11:02:54 - Epoch [12/50] Train Loss: 0.4047 Acc: 85.42% | Val Loss: 0.4804 Acc: 82.60%
+2026-05-14 11:03:46 - Epoch [13/50] Train Loss: 0.3887 Acc: 85.83% | Val Loss: 0.4589 Acc: 83.00%
+2026-05-14 11:03:50 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 83.00%)
+2026-05-14 11:04:42 - Epoch [14/50] Train Loss: 0.3657 Acc: 86.92% | Val Loss: 0.4618 Acc: 82.90%
+2026-05-14 11:05:34 - Epoch [15/50] Train Loss: 0.3580 Acc: 87.17% | Val Loss: 0.4596 Acc: 82.60%
+2026-05-14 11:06:27 - Epoch [16/50] Train Loss: 0.3422 Acc: 87.92% | Val Loss: 0.4589 Acc: 84.00%
+2026-05-14 11:06:31 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 84.00%)
+2026-05-14 11:07:23 - Epoch [17/50] Train Loss: 0.3293 Acc: 88.47% | Val Loss: 0.4542 Acc: 82.50%
+2026-05-14 11:08:15 - Epoch [18/50] Train Loss: 0.3206 Acc: 88.62% | Val Loss: 0.4537 Acc: 82.40%
+2026-05-14 11:09:07 - Epoch [19/50] Train Loss: 0.3100 Acc: 89.08% | Val Loss: 0.4582 Acc: 82.80%
+2026-05-14 11:09:59 - Epoch [20/50] Train Loss: 0.3104 Acc: 88.58% | Val Loss: 0.4607 Acc: 83.00%
+2026-05-14 11:10:52 - Epoch [21/50] Train Loss: 0.3059 Acc: 89.38% | Val Loss: 0.4517 Acc: 82.70%
+2026-05-14 11:11:44 - Epoch [22/50] Train Loss: 0.2793 Acc: 90.53% | Val Loss: 0.4450 Acc: 82.90%
+2026-05-14 11:12:36 - Epoch [23/50] Train Loss: 0.2690 Acc: 90.78% | Val Loss: 0.4512 Acc: 83.00%
+2026-05-14 11:13:28 - Epoch [24/50] Train Loss: 0.2707 Acc: 90.75% | Val Loss: 0.4455 Acc: 84.00%
+2026-05-14 11:14:20 - Epoch [25/50] Train Loss: 0.2734 Acc: 90.47% | Val Loss: 0.4350 Acc: 83.70%
+2026-05-14 11:15:12 - Epoch [26/50] Train Loss: 0.2505 Acc: 91.50% | Val Loss: 0.4435 Acc: 83.80%
+2026-05-14 11:16:04 - Epoch [27/50] Train Loss: 0.2410 Acc: 91.53% | Val Loss: 0.4513 Acc: 83.80%
+2026-05-14 11:16:56 - Epoch [28/50] Train Loss: 0.2435 Acc: 91.62% | Val Loss: 0.4518 Acc: 83.60%
+2026-05-14 11:17:48 - Epoch [29/50] Train Loss: 0.2252 Acc: 92.67% | Val Loss: 0.4499 Acc: 83.50%
+2026-05-14 11:18:41 - Epoch [30/50] Train Loss: 0.2253 Acc: 92.35% | Val Loss: 0.4505 Acc: 83.60%
+2026-05-14 11:19:32 - Epoch [31/50] Train Loss: 0.2203 Acc: 92.35% | Val Loss: 0.4642 Acc: 83.00%
+2026-05-14 11:20:24 - Epoch [32/50] Train Loss: 0.2150 Acc: 92.62% | Val Loss: 0.4486 Acc: 84.10%
+2026-05-14 11:20:28 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 84.10%)
+2026-05-14 11:21:20 - Epoch [33/50] Train Loss: 0.2075 Acc: 93.42% | Val Loss: 0.4533 Acc: 83.60%
+2026-05-14 11:22:12 - Epoch [34/50] Train Loss: 0.2086 Acc: 93.00% | Val Loss: 0.4581 Acc: 83.40%
+2026-05-14 11:23:05 - Epoch [35/50] Train Loss: 0.2063 Acc: 93.08% | Val Loss: 0.4586 Acc: 83.00%
+2026-05-14 11:23:56 - Epoch [36/50] Train Loss: 0.1870 Acc: 94.08% | Val Loss: 0.4517 Acc: 83.80%
+2026-05-14 11:24:48 - Epoch [37/50] Train Loss: 0.1864 Acc: 93.72% | Val Loss: 0.4646 Acc: 83.40%
+2026-05-14 11:25:41 - Epoch [38/50] Train Loss: 0.1813 Acc: 94.10% | Val Loss: 0.4656 Acc: 82.80%
+2026-05-14 11:26:33 - Epoch [39/50] Train Loss: 0.1815 Acc: 94.05% | Val Loss: 0.4652 Acc: 83.80%
+2026-05-14 11:27:24 - Epoch [40/50] Train Loss: 0.1742 Acc: 94.65% | Val Loss: 0.4815 Acc: 83.00%
+2026-05-14 11:28:15 - Epoch [41/50] Train Loss: 0.1797 Acc: 94.05% | Val Loss: 0.4686 Acc: 83.70%
+2026-05-14 11:29:07 - Epoch [42/50] Train Loss: 0.1642 Acc: 94.50% | Val Loss: 0.4696 Acc: 83.50%
+2026-05-14 11:29:58 - Epoch [43/50] Train Loss: 0.1687 Acc: 94.30% | Val Loss: 0.4649 Acc: 83.30%
+2026-05-14 11:30:51 - Epoch [44/50] Train Loss: 0.1540 Acc: 95.50% | Val Loss: 0.4708 Acc: 83.20%
+2026-05-14 11:31:43 - Epoch [45/50] Train Loss: 0.1504 Acc: 95.47% | Val Loss: 0.4671 Acc: 82.70%
+2026-05-14 11:32:36 - Epoch [46/50] Train Loss: 0.1494 Acc: 95.15% | Val Loss: 0.4677 Acc: 83.10%
+2026-05-14 11:33:29 - Epoch [47/50] Train Loss: 0.1521 Acc: 95.30% | Val Loss: 0.4666 Acc: 84.20%
+2026-05-14 11:33:33 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 84.20%)
+2026-05-14 11:34:25 - Epoch [48/50] Train Loss: 0.1462 Acc: 95.47% | Val Loss: 0.4661 Acc: 84.40%
+2026-05-14 11:34:29 -  >>> New best model saved to 研究拓展/CLIP+MLP/checkpoints/(Acc: {best_val_acc:.2f}%)_resnet50_baseline_best.pth (Acc: 84.40%)
+2026-05-14 11:35:21 - Epoch [49/50] Train Loss: 0.1357 Acc: 96.17% | Val Loss: 0.4908 Acc: 83.40%
+2026-05-14 11:36:13 - Epoch [50/50] Train Loss: 0.1319 Acc: 96.12% | Val Loss: 0.4804 Acc: 83.80%

@@ -1,0 +1,85 @@
+2026-05-20 16:50:39 - ===========================================
+2026-05-20 16:50:39 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 16:50:39 - ===========================================
+2026-05-20 16:51:26 - ===========================================
+2026-05-20 16:51:26 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 16:51:26 - ===========================================
+2026-05-20 16:57:44 - ===========================================
+2026-05-20 16:57:44 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 16:57:44 - ===========================================
+2026-05-20 17:05:22 - ===========================================
+2026-05-20 17:05:22 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 17:05:22 - ===========================================
+2026-05-20 17:08:10 - ===========================================
+2026-05-20 17:08:10 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 17:08:10 - ===========================================
+2026-05-20 17:12:48 - ===========================================
+2026-05-20 17:12:48 - Starting CoOp (Prompt Tuning) Training
+2026-05-20 17:12:48 - ===========================================
+2026-05-20 17:19:04 - Epoch [01/50] Train Loss: 1.2340 Acc: 49.83% | Val Loss: 0.9870 Acc: 60.30%
+2026-05-20 17:19:04 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_60.30%)_coop_best.pth (Acc: 60.30%)
+2026-05-20 17:19:58 - Epoch [02/50] Train Loss: 0.8783 Acc: 65.12% | Val Loss: 0.7872 Acc: 67.10%
+2026-05-20 17:19:58 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_67.10%)_coop_best.pth (Acc: 67.10%)
+2026-05-20 17:20:51 - Epoch [03/50] Train Loss: 0.7500 Acc: 70.47% | Val Loss: 0.7298 Acc: 72.40%
+2026-05-20 17:20:51 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_72.40%)_coop_best.pth (Acc: 72.40%)
+2026-05-20 17:21:44 - Epoch [04/50] Train Loss: 0.7201 Acc: 71.83% | Val Loss: 0.7271 Acc: 70.80%
+2026-05-20 17:22:37 - Epoch [05/50] Train Loss: 0.6944 Acc: 73.08% | Val Loss: 0.6749 Acc: 74.10%
+2026-05-20 17:22:37 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_74.10%)_coop_best.pth (Acc: 74.10%)
+2026-05-20 17:23:29 - Epoch [06/50] Train Loss: 0.6496 Acc: 74.67% | Val Loss: 0.6611 Acc: 75.30%
+2026-05-20 17:23:29 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_75.30%)_coop_best.pth (Acc: 75.30%)
+2026-05-20 17:24:21 - Epoch [07/50] Train Loss: 0.6419 Acc: 75.00% | Val Loss: 0.6702 Acc: 75.00%
+2026-05-20 17:25:14 - Epoch [08/50] Train Loss: 0.6291 Acc: 75.95% | Val Loss: 0.6694 Acc: 73.30%
+2026-05-20 17:26:07 - Epoch [09/50] Train Loss: 0.6140 Acc: 76.72% | Val Loss: 0.6204 Acc: 75.50%
+2026-05-20 17:26:07 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_75.50%)_coop_best.pth (Acc: 75.50%)
+2026-05-20 17:27:00 - Epoch [10/50] Train Loss: 0.6060 Acc: 76.95% | Val Loss: 0.6645 Acc: 72.50%
+2026-05-20 17:28:49 - Epoch [11/50] Train Loss: 0.5838 Acc: 78.00% | Val Loss: 0.6208 Acc: 77.00%
+2026-05-20 17:28:49 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_77.00%)_coop_best.pth (Acc: 77.00%)
+2026-05-20 17:30:38 - Epoch [12/50] Train Loss: 0.6002 Acc: 76.67% | Val Loss: 0.6244 Acc: 74.50%
+2026-05-20 17:31:31 - Epoch [13/50] Train Loss: 0.5970 Acc: 76.97% | Val Loss: 0.6229 Acc: 76.50%
+2026-05-20 17:33:25 - Epoch [14/50] Train Loss: 0.5727 Acc: 78.35% | Val Loss: 0.6219 Acc: 76.70%
+2026-05-20 17:34:19 - Epoch [15/50] Train Loss: 0.5669 Acc: 78.62% | Val Loss: 0.6153 Acc: 75.10%
+2026-05-20 17:35:12 - Epoch [16/50] Train Loss: 0.5662 Acc: 78.97% | Val Loss: 0.6044 Acc: 75.90%
+2026-05-20 17:36:06 - Epoch [17/50] Train Loss: 0.5594 Acc: 78.88% | Val Loss: 0.5878 Acc: 77.30%
+2026-05-20 17:36:06 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_77.30%)_coop_best.pth (Acc: 77.30%)
+2026-05-20 17:36:59 - Epoch [18/50] Train Loss: 0.5529 Acc: 78.78% | Val Loss: 0.5676 Acc: 78.10%
+2026-05-20 17:36:59 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_78.10%)_coop_best.pth (Acc: 78.10%)
+2026-05-20 17:37:52 - Epoch [19/50] Train Loss: 0.5437 Acc: 79.47% | Val Loss: 0.5805 Acc: 77.40%
+2026-05-20 17:38:46 - Epoch [20/50] Train Loss: 0.5449 Acc: 79.67% | Val Loss: 0.5746 Acc: 77.20%
+2026-05-20 17:39:39 - Epoch [21/50] Train Loss: 0.5469 Acc: 79.00% | Val Loss: 0.5684 Acc: 78.00%
+2026-05-20 17:40:32 - Epoch [22/50] Train Loss: 0.5364 Acc: 79.78% | Val Loss: 0.5699 Acc: 77.80%
+2026-05-20 17:41:25 - Epoch [23/50] Train Loss: 0.5351 Acc: 80.12% | Val Loss: 0.5793 Acc: 77.00%
+2026-05-20 17:42:21 - Epoch [24/50] Train Loss: 0.5307 Acc: 80.15% | Val Loss: 0.5775 Acc: 77.60%
+2026-05-20 17:43:19 - Epoch [25/50] Train Loss: 0.5282 Acc: 80.28% | Val Loss: 0.5713 Acc: 78.20%
+2026-05-20 17:43:19 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_78.20%)_coop_best.pth (Acc: 78.20%)
+2026-05-20 17:44:12 - Epoch [26/50] Train Loss: 0.5212 Acc: 80.80% | Val Loss: 0.5601 Acc: 78.10%
+2026-05-20 17:45:05 - Epoch [27/50] Train Loss: 0.5156 Acc: 81.25% | Val Loss: 0.5640 Acc: 78.40%
+2026-05-20 17:45:05 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_78.40%)_coop_best.pth (Acc: 78.40%)
+2026-05-20 17:45:58 - Epoch [28/50] Train Loss: 0.5171 Acc: 80.33% | Val Loss: 0.5616 Acc: 78.30%
+2026-05-20 17:46:51 - Epoch [29/50] Train Loss: 0.5131 Acc: 80.85% | Val Loss: 0.5566 Acc: 78.50%
+2026-05-20 17:46:51 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_78.50%)_coop_best.pth (Acc: 78.50%)
+2026-05-20 17:47:43 - Epoch [30/50] Train Loss: 0.5080 Acc: 81.17% | Val Loss: 0.5535 Acc: 78.00%
+2026-05-20 17:48:36 - Epoch [31/50] Train Loss: 0.5096 Acc: 80.95% | Val Loss: 0.5532 Acc: 78.30%
+2026-05-20 17:49:29 - Epoch [32/50] Train Loss: 0.4990 Acc: 81.30% | Val Loss: 0.5688 Acc: 76.80%
+2026-05-20 17:50:21 - Epoch [33/50] Train Loss: 0.4996 Acc: 82.03% | Val Loss: 0.5375 Acc: 80.30%
+2026-05-20 17:50:21 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_80.30%)_coop_best.pth (Acc: 80.30%)
+2026-05-20 17:51:13 - Epoch [34/50] Train Loss: 0.4947 Acc: 81.67% | Val Loss: 0.5318 Acc: 80.20%
+2026-05-20 17:52:06 - Epoch [35/50] Train Loss: 0.4904 Acc: 81.83% | Val Loss: 0.5388 Acc: 79.70%
+2026-05-20 17:53:00 - Epoch [36/50] Train Loss: 0.4892 Acc: 82.10% | Val Loss: 0.5362 Acc: 80.40%
+2026-05-20 17:53:00 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_80.40%)_coop_best.pth (Acc: 80.40%)
+2026-05-20 17:53:54 - Epoch [37/50] Train Loss: 0.4876 Acc: 82.60% | Val Loss: 0.5289 Acc: 80.30%
+2026-05-20 17:54:47 - Epoch [38/50] Train Loss: 0.4857 Acc: 81.88% | Val Loss: 0.5284 Acc: 80.50%
+2026-05-20 17:54:47 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_80.50%)_coop_best.pth (Acc: 80.50%)
+2026-05-20 17:55:39 - Epoch [39/50] Train Loss: 0.4828 Acc: 82.35% | Val Loss: 0.5274 Acc: 80.00%
+2026-05-20 17:56:32 - Epoch [40/50] Train Loss: 0.4831 Acc: 82.38% | Val Loss: 0.5273 Acc: 80.30%
+2026-05-20 17:57:25 - Epoch [41/50] Train Loss: 0.4761 Acc: 83.20% | Val Loss: 0.5232 Acc: 80.50%
+2026-05-20 17:58:17 - Epoch [42/50] Train Loss: 0.4742 Acc: 82.80% | Val Loss: 0.5302 Acc: 79.90%
+2026-05-20 17:59:09 - Epoch [43/50] Train Loss: 0.4742 Acc: 82.30% | Val Loss: 0.5251 Acc: 80.30%
+2026-05-20 18:00:02 - Epoch [44/50] Train Loss: 0.4707 Acc: 82.80% | Val Loss: 0.5246 Acc: 80.40%
+2026-05-20 18:00:58 - Epoch [45/50] Train Loss: 0.4707 Acc: 82.85% | Val Loss: 0.5229 Acc: 80.80%
+2026-05-20 18:00:58 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_80.80%)_coop_best.pth (Acc: 80.80%)
+2026-05-20 18:02:02 - Epoch [46/50] Train Loss: 0.4688 Acc: 82.97% | Val Loss: 0.5225 Acc: 80.90%
+2026-05-20 18:02:02 -  >>> New best CoOp prompts saved to 研究拓展/CLIP+Prompt_Tuning_CoOp/checkpoints/(Acc_80.90%)_coop_best.pth (Acc: 80.90%)
+2026-05-20 18:02:55 - Epoch [47/50] Train Loss: 0.4678 Acc: 83.15% | Val Loss: 0.5222 Acc: 80.30%
+2026-05-20 18:03:47 - Epoch [48/50] Train Loss: 0.4671 Acc: 83.12% | Val Loss: 0.5222 Acc: 80.60%
+2026-05-20 18:04:39 - Epoch [49/50] Train Loss: 0.4670 Acc: 83.28% | Val Loss: 0.5222 Acc: 80.60%
+2026-05-20 18:05:32 - Epoch [50/50] Train Loss: 0.4669 Acc: 83.20% | Val Loss: 0.5222 Acc: 80.60%

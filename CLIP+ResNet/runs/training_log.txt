@@ -1,0 +1,57 @@
+2026-05-13 13:52:45,661 - INFO - Starting training process...
+2026-05-13 13:52:45,672 - INFO - Loaded 4000 training images and 1000 validation images.
+2026-05-13 13:59:24,433 - INFO - Epoch [1/50] Train Loss: 1.3650, Train Acc: 76.72% | Val Loss: 0.8199, Val Acc: 87.60%
+2026-05-13 13:59:26,159 - INFO - --> Saved new best model to 研究拓展/CLIP/checkpoints/best_model.pth (Acc: 87.60%)
+2026-05-13 14:05:30,482 - INFO - Epoch [2/50] Train Loss: 0.6303, Train Acc: 89.53% | Val Loss: 0.7716, Val Acc: 86.30%
+2026-05-13 14:06:35,061 - INFO - Epoch [3/50] Train Loss: 0.3764, Train Acc: 93.95% | Val Loss: 0.7193, Val Acc: 87.00%
+2026-05-13 14:07:28,466 - INFO - Epoch [4/50] Train Loss: 0.2411, Train Acc: 95.58% | Val Loss: 0.7385, Val Acc: 87.70%
+2026-05-13 14:07:40,102 - INFO - --> Saved new best model to 研究拓展/CLIP/checkpoints/best_model.pth (Acc: 87.70%)
+2026-05-13 14:08:33,427 - INFO - Epoch [5/50] Train Loss: 0.1720, Train Acc: 95.95% | Val Loss: 0.7751, Val Acc: 87.50%
+2026-05-13 14:09:26,860 - INFO - Epoch [6/50] Train Loss: 0.1067, Train Acc: 97.62% | Val Loss: 0.7878, Val Acc: 88.00%
+2026-05-13 14:09:37,953 - INFO - --> Saved new best model to 研究拓展/CLIP/checkpoints/best_model.pth (Acc: 88.00%)
+2026-05-13 14:10:31,317 - INFO - Epoch [7/50] Train Loss: 0.0350, Train Acc: 99.67% | Val Loss: 0.7709, Val Acc: 90.40%
+2026-05-13 14:10:42,770 - INFO - --> Saved new best model to 研究拓展/CLIP/checkpoints/best_model.pth (Acc: 90.40%)
+2026-05-13 14:11:49,967 - INFO - Epoch [8/50] Train Loss: 0.0876, Train Acc: 99.15% | Val Loss: 0.7871, Val Acc: 88.80%
+2026-05-13 14:12:51,343 - INFO - Epoch [9/50] Train Loss: 0.0385, Train Acc: 99.42% | Val Loss: 0.8603, Val Acc: 90.10%
+2026-05-13 14:13:45,519 - INFO - Epoch [10/50] Train Loss: 0.0125, Train Acc: 99.85% | Val Loss: 0.8423, Val Acc: 90.20%
+2026-05-13 14:14:42,613 - INFO - Epoch [11/50] Train Loss: 0.0046, Train Acc: 100.00% | Val Loss: 0.8670, Val Acc: 90.80%
+2026-05-13 14:14:54,246 - INFO - --> Saved new best model to 研究拓展/CLIP/checkpoints/best_model.pth (Acc: 90.80%)
+2026-05-13 14:15:50,376 - INFO - Epoch [12/50] Train Loss: 0.0031, Train Acc: 100.00% | Val Loss: 0.8875, Val Acc: 90.40%
+2026-05-13 14:16:54,487 - INFO - Epoch [13/50] Train Loss: 0.0023, Train Acc: 100.00% | Val Loss: 0.9253, Val Acc: 90.30%
+2026-05-13 14:17:53,172 - INFO - Epoch [14/50] Train Loss: 0.0019, Train Acc: 100.00% | Val Loss: 0.9462, Val Acc: 90.00%
+2026-05-13 14:19:02,165 - INFO - Epoch [15/50] Train Loss: 0.0015, Train Acc: 100.00% | Val Loss: 0.9640, Val Acc: 89.90%
+2026-05-13 14:20:05,792 - INFO - Epoch [16/50] Train Loss: 0.0014, Train Acc: 100.00% | Val Loss: 0.9613, Val Acc: 90.00%
+2026-05-13 14:21:02,256 - INFO - Epoch [17/50] Train Loss: 0.0012, Train Acc: 100.00% | Val Loss: 0.9939, Val Acc: 90.00%
+2026-05-13 14:22:07,189 - INFO - Epoch [18/50] Train Loss: 0.0009, Train Acc: 100.00% | Val Loss: 1.0062, Val Acc: 90.00%
+2026-05-13 14:23:03,111 - INFO - Epoch [19/50] Train Loss: 0.0010, Train Acc: 100.00% | Val Loss: 1.0410, Val Acc: 89.90%
+2026-05-13 14:24:11,954 - INFO - Epoch [20/50] Train Loss: 0.0008, Train Acc: 100.00% | Val Loss: 1.0274, Val Acc: 90.00%
+2026-05-13 14:25:18,368 - INFO - Epoch [21/50] Train Loss: 0.0007, Train Acc: 100.00% | Val Loss: 1.0600, Val Acc: 90.10%
+2026-05-13 14:26:19,660 - INFO - Epoch [22/50] Train Loss: 0.0006, Train Acc: 100.00% | Val Loss: 1.0692, Val Acc: 89.70%
+2026-05-13 14:27:21,728 - INFO - Epoch [23/50] Train Loss: 0.0006, Train Acc: 100.00% | Val Loss: 1.0717, Val Acc: 89.70%
+2026-05-13 14:28:19,577 - INFO - Epoch [24/50] Train Loss: 0.0005, Train Acc: 100.00% | Val Loss: 1.0727, Val Acc: 89.90%
+2026-05-13 14:29:24,799 - INFO - Epoch [25/50] Train Loss: 0.0005, Train Acc: 100.00% | Val Loss: 1.1110, Val Acc: 89.80%
+2026-05-13 14:30:26,635 - INFO - Epoch [26/50] Train Loss: 0.0004, Train Acc: 100.00% | Val Loss: 1.1124, Val Acc: 90.00%
+2026-05-13 14:31:37,048 - INFO - Epoch [27/50] Train Loss: 0.0004, Train Acc: 100.00% | Val Loss: 1.1339, Val Acc: 90.00%
+2026-05-13 14:32:40,652 - INFO - Epoch [28/50] Train Loss: 0.0004, Train Acc: 100.00% | Val Loss: 1.1322, Val Acc: 90.00%
+2026-05-13 14:33:38,566 - INFO - Epoch [29/50] Train Loss: 0.0003, Train Acc: 100.00% | Val Loss: 1.1524, Val Acc: 89.80%
+2026-05-13 14:34:44,104 - INFO - Epoch [30/50] Train Loss: 0.0003, Train Acc: 100.00% | Val Loss: 1.1759, Val Acc: 90.00%
+2026-05-13 14:35:39,034 - INFO - Epoch [31/50] Train Loss: 0.0003, Train Acc: 100.00% | Val Loss: 1.1970, Val Acc: 90.00%
+2026-05-13 14:36:48,336 - INFO - Epoch [32/50] Train Loss: 0.0003, Train Acc: 100.00% | Val Loss: 1.1979, Val Acc: 89.80%
+2026-05-13 14:37:55,189 - INFO - Epoch [33/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2004, Val Acc: 89.70%
+2026-05-13 14:38:55,848 - INFO - Epoch [34/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2266, Val Acc: 89.70%
+2026-05-13 14:39:56,585 - INFO - Epoch [35/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2345, Val Acc: 90.00%
+2026-05-13 14:40:53,934 - INFO - Epoch [36/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2537, Val Acc: 89.70%
+2026-05-13 14:41:49,910 - INFO - Epoch [37/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2624, Val Acc: 89.70%
+2026-05-13 14:42:57,626 - INFO - Epoch [38/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2850, Val Acc: 89.60%
+2026-05-13 14:44:06,513 - INFO - Epoch [39/50] Train Loss: 0.0002, Train Acc: 100.00% | Val Loss: 1.2793, Val Acc: 89.80%
+2026-05-13 14:45:08,060 - INFO - Epoch [40/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3004, Val Acc: 89.80%
+2026-05-13 14:46:10,267 - INFO - Epoch [41/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3192, Val Acc: 89.50%
+2026-05-13 14:47:08,736 - INFO - Epoch [42/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3375, Val Acc: 89.60%
+2026-05-13 14:48:13,127 - INFO - Epoch [43/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3582, Val Acc: 89.50%
+2026-05-13 14:49:21,401 - INFO - Epoch [44/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3391, Val Acc: 89.40%
+2026-05-13 14:50:26,716 - INFO - Epoch [45/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3712, Val Acc: 89.40%
+2026-05-13 14:51:24,661 - INFO - Epoch [46/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3823, Val Acc: 89.50%
+2026-05-13 14:52:24,797 - INFO - Epoch [47/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3958, Val Acc: 89.40%
+2026-05-13 14:53:26,611 - INFO - Epoch [48/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.3995, Val Acc: 89.20%
+2026-05-13 14:54:20,747 - INFO - Epoch [49/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.4236, Val Acc: 89.30%
+2026-05-13 14:55:18,287 - INFO - Epoch [50/50] Train Loss: 0.0001, Train Acc: 100.00% | Val Loss: 1.4332, Val Acc: 89.20%
